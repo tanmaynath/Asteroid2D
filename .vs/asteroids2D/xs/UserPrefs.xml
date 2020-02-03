@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{81A923B9-8EA4-F030-ADB6-DFCF8170D268}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DestroyByBullet.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DestroyByAsteroid.cs" Line="15" Column="58" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" />
+      <File FileName="Assets/Scripts/AudioManager.cs" />
+      <File FileName="Assets/Scripts/ThrustController.cs" />
+      <File FileName="Assets/Scripts/BulletController.cs" />
+      <File FileName="Assets/Scripts/AudioClipName.cs" />
+      <File FileName="Assets/Scripts/DestroyByBullet.cs" Line="38" Column="83" />
+      <File FileName="Assets/Scripts/AsteroidController.cs" Line="31" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="asteroids2D" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="DestroyByBullet.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="13d648f1-faef-4f6e-8424-fce25b17e205" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
